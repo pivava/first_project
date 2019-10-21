@@ -1,4 +1,4 @@
-# __Basic configure of nginx__
+# __Beginning configure file of nginx__
 
 ![Image of nginx](https://kinsta.com/wp-content/uploads/2018/03/what-is-nginx.png)
 
@@ -24,11 +24,11 @@ Location of configuration file (nginx.conf) in Linux systems:
 
 ## __Starting__
 
-To _start_ you need to run the following command:
+To ___start___ you need to run the following command:
 
   sudo nginx
 
-To _stop_ nginx you need to run:
+To ___stop___ nginx you need to run:
 
   sudo nginx -s stop
 
@@ -47,6 +47,7 @@ Stable realise is v0.01.
 ## __Helpfull link__
 
 [Beginner’s Guide](http://nginx.org/en/docs/beginners_guide.html)
+
 [README-Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md)
 
 ### _Creator_
