@@ -1,0 +1,5 @@
+#Ingnoring tmp directory
+tmp/
+tmp
+git-checkout/
+git-checkout
